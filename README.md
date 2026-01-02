@@ -3,7 +3,9 @@ Hi, I’m Job Ayebale
 💻 Software Developer | Data Engineer
 
 🚀 Co-Founder at Wenzo Creations – a technology company delivering innovative digital solutions including software development, web & mobile apps, digital marketing, business intelligence, and technology training. 
-[wenzocreations.com ](https://www.wenzocreations.com/) 
+[wenzocreations.com ](https://www.wenzocreations.com/)
+Bar Point of Sale syetem  https://www.wenzocreations.com/posbar/ 
+Hardware Management System https://www.wenzocreations.com/hardware/ 
 
 🛠️ Passionate about building scalable backend systems, data pipelines, and impactful tech products
 
