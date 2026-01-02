@@ -1,10 +1,16 @@
-- 👋 Hi, I’m Job Ayebale
+Hi, I’m Job Ayebale
 
-- 🌱 I’m currently learning javascript
+💻 Software Developer | Data Engineer
 
-- 📫 Reach me on alilee47@gmail.com
+🚀 Co-Founder at Wenzo Creations – a technology company delivering innovative digital solutions including software development, web & mobile apps, digital marketing, business intelligence, and technology training. 
+[wenzocreations.com ](https://www.wenzocreations.com/) 
 
-<!---
-alilee47/alilee47 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🛠️ Passionate about building scalable backend systems, data pipelines, and impactful tech products
+
+📊 Experienced in software development, data engineering,database management, analytics, and transforming data into actionable insights
+
+🌱 Continuously learning and adopting modern technologies and best practices
+
+🤝 Open to collaboration on open-source projects, tech partnerships, and data-driven solutions
+
+📫 Reach me at alilee47@gmail.com
